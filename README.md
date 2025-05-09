@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Abdullahmohamed569/Abdullahmohamed569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Abdullah**, a passionate **Data Analyst** who loves transforming raw data into meaningful insights that support better decision-making.
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 📊 Skilled in **Power BI**, **Excel**, **SQL**, and **Python for Data Analysis**
+- 🎯 Currently focused on improving my data storytelling and dashboard design skills
+- 🌱 Always learning something new in the world of data and analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I'm Working On
+- Personal projects to deepen my understanding of business metrics
+- Exploring open datasets and publishing visualizations
+- Preparing for certifications in BI and data analysis
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn][(https://www.linkedin.com/in/abdullah-almashad-8605b3249]
+- 📧 Email:abdallamohamed1358@gmail.com
+
+Thanks for visiting my profile! 🚀
